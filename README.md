@@ -65,7 +65,7 @@
 </a>
 
 <!-- Replace with your LeetCode profile link -->
-<a href="(https://leetcode.com/u/Aarav_D123/)">
+<a href="https://leetcode.com/u/Aarav_D123/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
