@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarav!
 
-🧠 **B.Tech Student** exploring the core foundations of computer science, from low-level architecture to high-level intelligence and graphics. 
+🧠 **B.Tech Student** exploring the core foundations of computer science, from low-level architecture to high-level intelligence and graphics.
 
 ---
 
