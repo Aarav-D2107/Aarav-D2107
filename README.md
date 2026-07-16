@@ -17,7 +17,7 @@
 
 * 🧠 **Artificial Intelligence:** Looking to apply my foundational skills to AI/ML.
 * 🛡️ **Cybersecurity Research:** Fascinated by network security and architectural vulnerabilities.
-* 🎮 **Game Development:** Merging my love for visuals and programming to build interactive experiences.
+📱 App Development: Building functional, user-friendly applications from the ground up as I start my coding journey.
 
 ---
 ### 🛠️ Tech Stack & Languages
