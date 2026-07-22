@@ -45,7 +45,7 @@
 
 <p align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Aarav-D2107&theme=tokyonight"/>
 </p>
 
 ---
