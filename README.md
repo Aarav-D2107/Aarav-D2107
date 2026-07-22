@@ -33,7 +33,7 @@
 
 ## 🎯 Goals for 2026
 
-- [ ] Build a Log Analyzer & Anomaly Detector
+- [x] Build a Log Analyzer & Anomaly Detector
 - [ ] Master core DSA concepts and excel on LeetCode
 - [ ] Develop a deeper practical grip on networking protocols and cybersecurity basics
 - [ ] Secure a research-focused or development internship in systems, graphics, or AI
